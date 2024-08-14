@@ -1,3 +1,4 @@
+/*
 import DOCS from './help.html'
  
 // return docs
@@ -9,6 +10,7 @@ if (url.pathname === "/") {
     }
   });
 }
+*/
 
 addEventListener("fetch", (event) => {
   event.passThroughOnException();
